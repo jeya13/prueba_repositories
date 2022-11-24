@@ -1,1 +1,7 @@
-# prueba_repositories1
+# prueba_repositories
+
+## Actualización de Información
+
+### Componente Metodologico
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
